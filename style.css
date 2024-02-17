@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{background-color: gainsboro; text-align: center;}
+
+.class1 {background-color: #0000cf;}
+.class2 {background-color: #2d2dff;}
+.class3 {background-color: #4e4eff;}
+.class4 {background-color: #7373ff;}
+.class5 {background-color: #9191ff;}
+.class6 {background-color: #a7a7ff;}
+.class7 {background-color: #00aa5b;}
+.class8 {background-color: #facbe8;}
+.class9 {background-color: #fda4db;}
+.class10 {background-color: #ff7acc;}
+.class11 {background-color: #fd54bc;}
+.class12 {background-color: #fa29aa;}
+.class13 {background-color: #ff009d;}
